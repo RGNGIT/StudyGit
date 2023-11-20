@@ -76,4 +76,10 @@
   <data name="Property_Responsible" xml:space="preserve">
     <value>Ответственный</value>
   </data>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>Обращение</value>
+  </data>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>Обращения</value>
+  </data>
 </root>

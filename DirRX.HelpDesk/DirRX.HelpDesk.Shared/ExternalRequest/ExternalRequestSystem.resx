@@ -67,4 +67,10 @@
   <data name="Property_Result" xml:space="preserve">
     <value>Result</value>
   </data>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>External Request</value>
+  </data>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>External Requests</value>
+  </data>
 </root>

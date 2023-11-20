@@ -64,4 +64,10 @@
   <data name="Property_Author" xml:space="preserve">
     <value>Автор</value>
   </data>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>Внешнее обращение</value>
+  </data>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>Внешние обращения</value>
+  </data>
 </root>
