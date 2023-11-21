@@ -37,20 +37,23 @@
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
     },
     {
-      "ItemId": "fd722e40-d593-4030-a27c-30773da8dcac",
+      "ItemId": "36d3003b-3e69-4070-a5bf-b330faab614d",
       "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
     },
     {
       "ItemId": "70a9a8af-1491-419e-a9e8-9b966fdb7408",
-      "PreviousItemId": "fd722e40-d593-4030-a27c-30773da8dcac"
+      "PreviousItemId": "36d3003b-3e69-4070-a5bf-b330faab614d"
     },
     {
       "ItemId": "9dad9bb6-114b-4d65-8e7e-17d560928813",
       "PreviousItemId": "70a9a8af-1491-419e-a9e8-9b966fdb7408"
+<<<<<<< HEAD
     },
     {
       "ItemId": "6bb5a9e1-b174-42fe-97eb-105c86466a07",
       "PreviousItemId": "9dad9bb6-114b-4d65-8e7e-17d560928813"
+=======
+>>>>>>> 2ae72b7 (Декларация)
     }
   ],
   "IconResourcesKeys": [],
